@@ -72,8 +72,6 @@ Hold my Items support (being worked on right now).
 </p>
 
 For 1.20.1, 1.21, 1.21.1 you need [Pommel](https://modrinth.com/mod/pommel-held-item-models) and [CIT Resewn](https://modrinth.com/mod/cit-resewn). Without those mods it doesn't work!
-</p>
-
 <hr>
 
 <p align="center">
