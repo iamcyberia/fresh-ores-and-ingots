@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "fixed",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:component",
+          "component": "minecraft:custom_name",
+          "cases": [
+            {
+              "when": [
+                "Iron Ingots"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/nameable_variants/iron_ingots_3d"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_ingot"
+          }
+        }
+      },
+      {
+        "when": [
+          "gui",
+          "ground"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_ingot"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": [
+            "Iron Ingots"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/nameable_variants/iron_ingots_3d"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/iron_ingot_3d"
+      }
+    }
+  }
+}

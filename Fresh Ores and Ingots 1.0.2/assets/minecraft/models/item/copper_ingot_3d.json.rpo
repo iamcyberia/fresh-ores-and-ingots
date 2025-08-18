@@ -1,0 +1,4 @@
+{
+  "condition": "Outlines",
+  "fallback": "assets/minecraft/models/item/no_outline/copper_ingot_3d.json"
+}

@@ -1,0 +1,4 @@
+{
+  "condition": "Outlines",
+  "fallback": "assets/minecraft/models/item/no_outline/emerald_3d_firstperson.json"
+}
