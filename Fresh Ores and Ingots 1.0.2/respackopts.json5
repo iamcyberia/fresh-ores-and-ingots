@@ -1,8 +1,0 @@
-{
-    id: "FreshOresAndIngots",
-    version: 13,
-    capabilities: ["FileFilter", "DirFilter"],
-    conf: {
-        Outlines: true
-    }
-}
