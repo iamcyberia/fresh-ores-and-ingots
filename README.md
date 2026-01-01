@@ -737,7 +737,198 @@
     <td>Yellow Warped Glass Display Case</td>
     <td>"Yellow Warped Glass Display Case", "Yellow Glass Warped Display Case", "Warped Yellow Glass Display Case", "Warped Glass Yellow Display Case", "Glass Warped Yellow Display Case", "Glass Yellow Warped Display Case"</td>
   </tr>
-
+<tr><td>Black Acacia Display Case</td><td>"Black Acacia Display Case", "Acacia Black Display Case"</td></tr>
+<tr><td>Blue Acacia Display Case</td><td>"Blue Acacia Display Case", "Acacia Blue Display Case"</td></tr>
+<tr><td>Brown Acacia Display Case</td><td>"Brown Acacia Display Case", "Acacia Brown Display Case"</td></tr>
+<tr><td>Cyan Acacia Display Case</td><td>"Cyan Acacia Display Case", "Acacia Cyan Display Case"</td></tr>
+<tr><td>Gray Acacia Display Case</td><td>"Gray Acacia Display Case", "Acacia Gray Display Case"</td></tr>
+<tr><td>Green Acacia Display Case</td><td>"Green Acacia Display Case", "Acacia Green Display Case"</td></tr>
+<tr><td>Light Blue Acacia Display Case</td><td>"Light Blue Acacia Display Case", "Acacia Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Acacia Display Case</td><td>"Light Gray Acacia Display Case", "Acacia Light Gray Display Case"</td></tr>
+<tr><td>Lime Acacia Display Case</td><td>"Lime Acacia Display Case", "Acacia Lime Display Case"</td></tr>
+<tr><td>Magenta Acacia Display Case</td><td>"Magenta Acacia Display Case", "Acacia Magenta Display Case"</td></tr>
+<tr><td>Orange Acacia Display Case</td><td>"Orange Acacia Display Case", "Acacia Orange Display Case"</td></tr>
+<tr><td>Pink Acacia Display Case</td><td>"Pink Acacia Display Case", "Acacia Pink Display Case"</td></tr>
+<tr><td>Purple Acacia Display Case</td><td>"Purple Acacia Display Case", "Acacia Purple Display Case"</td></tr>
+<tr><td>Red Acacia Display Case</td><td>"Red Acacia Display Case", "Acacia Red Display Case"</td></tr>
+<tr><td>White Acacia Display Case</td><td>"White Acacia Display Case", "Acacia White Display Case"</td></tr>
+<tr><td>Yellow Acacia Display Case</td><td>"Yellow Acacia Display Case", "Acacia Yellow Display Case"</td></tr>
+<tr><td>Black Bamboo Display Case</td><td>"Black Bamboo Display Case", "Bamboo Black Display Case"</td></tr>
+<tr><td>Blue Bamboo Display Case</td><td>"Blue Bamboo Display Case", "Bamboo Blue Display Case"</td></tr>
+<tr><td>Brown Bamboo Display Case</td><td>"Brown Bamboo Display Case", "Bamboo Brown Display Case"</td></tr>
+<tr><td>Cyan Bamboo Display Case</td><td>"Cyan Bamboo Display Case", "Bamboo Cyan Display Case"</td></tr>
+<tr><td>Gray Bamboo Display Case</td><td>"Gray Bamboo Display Case", "Bamboo Gray Display Case"</td></tr>
+<tr><td>Green Bamboo Display Case</td><td>"Green Bamboo Display Case", "Bamboo Green Display Case"</td></tr>
+<tr><td>Light Blue Bamboo Display Case</td><td>"Light Blue Bamboo Display Case", "Bamboo Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Bamboo Display Case</td><td>"Light Gray Bamboo Display Case", "Bamboo Light Gray Display Case"</td></tr>
+<tr><td>Lime Bamboo Display Case</td><td>"Lime Bamboo Display Case", "Bamboo Lime Display Case"</td></tr>
+<tr><td>Magenta Bamboo Display Case</td><td>"Magenta Bamboo Display Case", "Bamboo Magenta Display Case"</td></tr>
+<tr><td>Orange Bamboo Display Case</td><td>"Orange Bamboo Display Case", "Bamboo Orange Display Case"</td></tr>
+<tr><td>Pink Bamboo Display Case</td><td>"Pink Bamboo Display Case", "Bamboo Pink Display Case"</td></tr>
+<tr><td>Purple Bamboo Display Case</td><td>"Purple Bamboo Display Case", "Bamboo Purple Display Case"</td></tr>
+<tr><td>Red Bamboo Display Case</td><td>"Red Bamboo Display Case", "Bamboo Red Display Case"</td></tr>
+<tr><td>White Bamboo Display Case</td><td>"White Bamboo Display Case", "Bamboo White Display Case"</td></tr>
+<tr><td>Yellow Bamboo Display Case</td><td>"Yellow Bamboo Display Case", "Bamboo Yellow Display Case"</td></tr>
+<tr><td>Black Birch Display Case</td><td>"Black Birch Display Case", "Birch Black Display Case"</td></tr>
+<tr><td>Blue Birch Display Case</td><td>"Blue Birch Display Case", "Birch Blue Display Case"</td></tr>
+<tr><td>Brown Birch Display Case</td><td>"Brown Birch Display Case", "Birch Brown Display Case"</td></tr>
+<tr><td>Cyan Birch Display Case</td><td>"Cyan Birch Display Case", "Birch Cyan Display Case"</td></tr>
+<tr><td>Gray Birch Display Case</td><td>"Gray Birch Display Case", "Birch Gray Display Case"</td></tr>
+<tr><td>Green Birch Display Case</td><td>"Green Birch Display Case", "Birch Green Display Case"</td></tr>
+<tr><td>Light Blue Birch Display Case</td><td>"Light Blue Birch Display Case", "Birch Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Birch Display Case</td><td>"Light Gray Birch Display Case", "Birch Light Gray Display Case"</td></tr>
+<tr><td>Lime Birch Display Case</td><td>"Lime Birch Display Case", "Birch Lime Display Case"</td></tr>
+<tr><td>Magenta Birch Display Case</td><td>"Magenta Birch Display Case", "Birch Magenta Display Case"</td></tr>
+<tr><td>Orange Birch Display Case</td><td>"Orange Birch Display Case", "Birch Orange Display Case"</td></tr>
+<tr><td>Pink Birch Display Case</td><td>"Pink Birch Display Case", "Birch Pink Display Case"</td></tr>
+<tr><td>Purple Birch Display Case</td><td>"Purple Birch Display Case", "Birch Purple Display Case"</td></tr>
+<tr><td>Red Birch Display Case</td><td>"Red Birch Display Case", "Birch Red Display Case"</td></tr>
+<tr><td>White Birch Display Case</td><td>"White Birch Display Case", "Birch White Display Case"</td></tr>
+<tr><td>Yellow Birch Display Case</td><td>"Yellow Birch Display Case", "Birch Yellow Display Case"</td></tr>
+<tr><td>Black Cherry Display Case</td><td>"Black Cherry Display Case", "Cherry Black Display Case"</td></tr>
+<tr><td>Blue Cherry Display Case</td><td>"Blue Cherry Display Case", "Cherry Blue Display Case"</td></tr>
+<tr><td>Brown Cherry Display Case</td><td>"Brown Cherry Display Case", "Cherry Brown Display Case"</td></tr>
+<tr><td>Cyan Cherry Display Case</td><td>"Cyan Cherry Display Case", "Cherry Cyan Display Case"</td></tr>
+<tr><td>Gray Cherry Display Case</td><td>"Gray Cherry Display Case", "Cherry Gray Display Case"</td></tr>
+<tr><td>Green Cherry Display Case</td><td>"Green Cherry Display Case", "Cherry Green Display Case"</td></tr>
+<tr><td>Light Blue Cherry Display Case</td><td>"Light Blue Cherry Display Case", "Cherry Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Cherry Display Case</td><td>"Light Gray Cherry Display Case", "Cherry Light Gray Display Case"</td></tr>
+<tr><td>Lime Cherry Display Case</td><td>"Lime Cherry Display Case", "Cherry Lime Display Case"</td></tr>
+<tr><td>Magenta Cherry Display Case</td><td>"Magenta Cherry Display Case", "Cherry Magenta Display Case"</td></tr>
+<tr><td>Orange Cherry Display Case</td><td>"Orange Cherry Display Case", "Cherry Orange Display Case"</td></tr>
+<tr><td>Pink Cherry Display Case</td><td>"Pink Cherry Display Case", "Cherry Pink Display Case"</td></tr>
+<tr><td>Purple Cherry Display Case</td><td>"Purple Cherry Display Case", "Cherry Purple Display Case"</td></tr>
+<tr><td>Red Cherry Display Case</td><td>"Red Cherry Display Case", "Cherry Red Display Case"</td></tr>
+<tr><td>White Cherry Display Case</td><td>"White Cherry Display Case", "Cherry White Display Case"</td></tr>
+<tr><td>Yellow Cherry Display Case</td><td>"Yellow Cherry Display Case", "Cherry Yellow Display Case"</td></tr>
+<tr><td>Black Crimson Display Case</td><td>"Black Crimson Display Case", "Crimson Black Display Case"</td></tr>
+<tr><td>Blue Crimson Display Case</td><td>"Blue Crimson Display Case", "Crimson Blue Display Case"</td></tr>
+<tr><td>Brown Crimson Display Case</td><td>"Brown Crimson Display Case", "Crimson Brown Display Case"</td></tr>
+<tr><td>Cyan Crimson Display Case</td><td>"Cyan Crimson Display Case", "Crimson Cyan Display Case"</td></tr>
+<tr><td>Gray Crimson Display Case</td><td>"Gray Crimson Display Case", "Crimson Gray Display Case"</td></tr>
+<tr><td>Green Crimson Display Case</td><td>"Green Crimson Display Case", "Crimson Green Display Case"</td></tr>
+<tr><td>Light Blue Crimson Display Case</td><td>"Light Blue Crimson Display Case", "Crimson Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Crimson Display Case</td><td>"Light Gray Crimson Display Case", "Crimson Light Gray Display Case"</td></tr>
+<tr><td>Lime Crimson Display Case</td><td>"Lime Crimson Display Case", "Crimson Lime Display Case"</td></tr>
+<tr><td>Magenta Crimson Display Case</td><td>"Magenta Crimson Display Case", "Crimson Magenta Display Case"</td></tr>
+<tr><td>Orange Crimson Display Case</td><td>"Orange Crimson Display Case", "Crimson Orange Display Case"</td></tr>
+<tr><td>Pink Crimson Display Case</td><td>"Pink Crimson Display Case", "Crimson Pink Display Case"</td></tr>
+<tr><td>Purple Crimson Display Case</td><td>"Purple Crimson Display Case", "Crimson Purple Display Case"</td></tr>
+<tr><td>Red Crimson Display Case</td><td>"Red Crimson Display Case", "Crimson Red Display Case"</td></tr>
+<tr><td>White Crimson Display Case</td><td>"White Crimson Display Case", "Crimson White Display Case"</td></tr>
+<tr><td>Yellow Crimson Display Case</td><td>"Yellow Crimson Display Case", "Crimson Yellow Display Case"</td></tr>
+<tr><td>Black Dark Oak Display Case</td><td>"Black Dark Oak Display Case", "Dark Oak Black Display Case"</td></tr>
+<tr><td>Blue Dark Oak Display Case</td><td>"Blue Dark Oak Display Case", "Dark Oak Blue Display Case"</td></tr>
+<tr><td>Brown Dark Oak Display Case</td><td>"Brown Dark Oak Display Case", "Dark Oak Brown Display Case"</td></tr>
+<tr><td>Cyan Dark Oak Display Case</td><td>"Cyan Dark Oak Display Case", "Dark Oak Cyan Display Case"</td></tr>
+<tr><td>Gray Dark Oak Display Case</td><td>"Gray Dark Oak Display Case", "Dark Oak Gray Display Case"</td></tr>
+<tr><td>Green Dark Oak Display Case</td><td>"Green Dark Oak Display Case", "Dark Oak Green Display Case"</td></tr>
+<tr><td>Light Blue Dark Oak Display Case</td><td>"Light Blue Dark Oak Display Case", "Dark Oak Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Dark Oak Display Case</td><td>"Light Gray Dark Oak Display Case", "Dark Oak Light Gray Display Case"</td></tr>
+<tr><td>Lime Dark Oak Display Case</td><td>"Lime Dark Oak Display Case", "Dark Oak Lime Display Case"</td></tr>
+<tr><td>Magenta Dark Oak Display Case</td><td>"Magenta Dark Oak Display Case", "Dark Oak Magenta Display Case"</td></tr>
+<tr><td>Orange Dark Oak Display Case</td><td>"Orange Dark Oak Display Case", "Dark Oak Orange Display Case"</td></tr>
+<tr><td>Pink Dark Oak Display Case</td><td>"Pink Dark Oak Display Case", "Dark Oak Pink Display Case"</td></tr>
+<tr><td>Purple Dark Oak Display Case</td><td>"Purple Dark Oak Display Case", "Dark Oak Purple Display Case"</td></tr>
+<tr><td>Red Dark Oak Display Case</td><td>"Red Dark Oak Display Case", "Dark Oak Red Display Case"</td></tr>
+<tr><td>White Dark Oak Display Case</td><td>"White Dark Oak Display Case", "Dark Oak White Display Case"</td></tr>
+<tr><td>Yellow Dark Oak Display Case</td><td>"Yellow Dark Oak Display Case", "Dark Oak Yellow Display Case"</td></tr>
+<tr><td>Black Jungle Display Case</td><td>"Black Jungle Display Case", "Jungle Black Display Case"</td></tr>
+<tr><td>Blue Jungle Display Case</td><td>"Blue Jungle Display Case", "Jungle Blue Display Case"</td></tr>
+<tr><td>Brown Jungle Display Case</td><td>"Brown Jungle Display Case", "Jungle Brown Display Case"</td></tr>
+<tr><td>Cyan Jungle Display Case</td><td>"Cyan Jungle Display Case", "Jungle Cyan Display Case"</td></tr>
+<tr><td>Gray Jungle Display Case</td><td>"Gray Jungle Display Case", "Jungle Gray Display Case"</td></tr>
+<tr><td>Green Jungle Display Case</td><td>"Green Jungle Display Case", "Jungle Green Display Case"</td></tr>
+<tr><td>Light Blue Jungle Display Case</td><td>"Light Blue Jungle Display Case", "Jungle Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Jungle Display Case</td><td>"Light Gray Jungle Display Case", "Jungle Light Gray Display Case"</td></tr>
+<tr><td>Lime Jungle Display Case</td><td>"Lime Jungle Display Case", "Jungle Lime Display Case"</td></tr>
+<tr><td>Magenta Jungle Display Case</td><td>"Magenta Jungle Display Case", "Jungle Magenta Display Case"</td></tr>
+<tr><td>Orange Jungle Display Case</td><td>"Orange Jungle Display Case", "Jungle Orange Display Case"</td></tr>
+<tr><td>Pink Jungle Display Case</td><td>"Pink Jungle Display Case", "Jungle Pink Display Case"</td></tr>
+<tr><td>Purple Jungle Display Case</td><td>"Purple Jungle Display Case", "Jungle Purple Display Case"</td></tr>
+<tr><td>Red Jungle Display Case</td><td>"Red Jungle Display Case", "Jungle Red Display Case"</td></tr>
+<tr><td>White Jungle Display Case</td><td>"White Jungle Display Case", "Jungle White Display Case"</td></tr>
+<tr><td>Yellow Jungle Display Case</td><td>"Yellow Jungle Display Case", "Jungle Yellow Display Case"</td></tr>
+<tr><td>Black Mangrove Display Case</td><td>"Black Mangrove Display Case", "Mangrove Black Display Case"</td></tr>
+<tr><td>Blue Mangrove Display Case</td><td>"Blue Mangrove Display Case", "Mangrove Blue Display Case"</td></tr>
+<tr><td>Brown Mangrove Display Case</td><td>"Brown Mangrove Display Case", "Mangrove Brown Display Case"</td></tr>
+<tr><td>Cyan Mangrove Display Case</td><td>"Cyan Mangrove Display Case", "Mangrove Cyan Display Case"</td></tr>
+<tr><td>Gray Mangrove Display Case</td><td>"Gray Mangrove Display Case", "Mangrove Gray Display Case"</td></tr>
+<tr><td>Green Mangrove Display Case</td><td>"Green Mangrove Display Case", "Mangrove Green Display Case"</td></tr>
+<tr><td>Light Blue Mangrove Display Case</td><td>"Light Blue Mangrove Display Case", "Mangrove Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Mangrove Display Case</td><td>"Light Gray Mangrove Display Case", "Mangrove Light Gray Display Case"</td></tr>
+<tr><td>Lime Mangrove Display Case</td><td>"Lime Mangrove Display Case", "Mangrove Lime Display Case"</td></tr>
+<tr><td>Magenta Mangrove Display Case</td><td>"Magenta Mangrove Display Case", "Mangrove Magenta Display Case"</td></tr>
+<tr><td>Orange Mangrove Display Case</td><td>"Orange Mangrove Display Case", "Mangrove Orange Display Case"</td></tr>
+<tr><td>Pink Mangrove Display Case</td><td>"Pink Mangrove Display Case", "Mangrove Pink Display Case"</td></tr>
+<tr><td>Purple Mangrove Display Case</td><td>"Purple Mangrove Display Case", "Mangrove Purple Display Case"</td></tr>
+<tr><td>Red Mangrove Display Case</td><td>"Red Mangrove Display Case", "Mangrove Red Display Case"</td></tr>
+<tr><td>White Mangrove Display Case</td><td>"White Mangrove Display Case", "Mangrove White Display Case"</td></tr>
+<tr><td>Yellow Mangrove Display Case</td><td>"Yellow Mangrove Display Case", "Mangrove Yellow Display Case"</td></tr>
+<tr><td>Black Oak Display Case</td><td>"Black Oak Display Case", "Oak Black Display Case"</td></tr>
+<tr><td>Blue Oak Display Case</td><td>"Blue Oak Display Case", "Oak Blue Display Case"</td></tr>
+<tr><td>Brown Oak Display Case</td><td>"Brown Oak Display Case", "Oak Brown Display Case"</td></tr>
+<tr><td>Cyan Oak Display Case</td><td>"Cyan Oak Display Case", "Oak Cyan Display Case"</td></tr>
+<tr><td>Gray Oak Display Case</td><td>"Gray Oak Display Case", "Oak Gray Display Case"</td></tr>
+<tr><td>Green Oak Display Case</td><td>"Green Oak Display Case", "Oak Green Display Case"</td></tr>
+<tr><td>Light Blue Oak Display Case</td><td>"Light Blue Oak Display Case", "Oak Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Oak Display Case</td><td>"Light Gray Oak Display Case", "Oak Light Gray Display Case"</td></tr>
+<tr><td>Lime Oak Display Case</td><td>"Lime Oak Display Case", "Oak Lime Display Case"</td></tr>
+<tr><td>Magenta Oak Display Case</td><td>"Magenta Oak Display Case", "Oak Magenta Display Case"</td></tr>
+<tr><td>Orange Oak Display Case</td><td>"Orange Oak Display Case", "Oak Orange Display Case"</td></tr>
+<tr><td>Pink Oak Display Case</td><td>"Pink Oak Display Case", "Oak Pink Display Case"</td></tr>
+<tr><td>Purple Oak Display Case</td><td>"Purple Oak Display Case", "Oak Purple Display Case"</td></tr>
+<tr><td>Red Oak Display Case</td><td>"Red Oak Display Case", "Oak Red Display Case"</td></tr>
+<tr><td>White Oak Display Case</td><td>"White Oak Display Case", "Oak White Display Case"</td></tr>
+<tr><td>Yellow Oak Display Case</td><td>"Yellow Oak Display Case", "Oak Yellow Display Case"</td></tr>
+<tr><td>Black Pale Oak Display Case</td><td>"Black Pale Oak Display Case", "Pale Oak Black Display Case"</td></tr>
+<tr><td>Blue Pale Oak Display Case</td><td>"Blue Pale Oak Display Case", "Pale Oak Blue Display Case"</td></tr>
+<tr><td>Brown Pale Oak Display Case</td><td>"Brown Pale Oak Display Case", "Pale Oak Brown Display Case"</td></tr>
+<tr><td>Cyan Pale Oak Display Case</td><td>"Cyan Pale Oak Display Case", "Pale Oak Cyan Display Case"</td></tr>
+<tr><td>Gray Pale Oak Display Case</td><td>"Gray Pale Oak Display Case", "Pale Oak Gray Display Case"</td></tr>
+<tr><td>Green Pale Oak Display Case</td><td>"Green Pale Oak Display Case", "Pale Oak Green Display Case"</td></tr>
+<tr><td>Light Blue Pale Oak Display Case</td><td>"Light Blue Pale Oak Display Case", "Pale Oak Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Pale Oak Display Case</td><td>"Light Gray Pale Oak Display Case", "Pale Oak Light Gray Display Case"</td></tr>
+<tr><td>Lime Pale Oak Display Case</td><td>"Lime Pale Oak Display Case", "Pale Oak Lime Display Case"</td></tr>
+<tr><td>Magenta Pale Oak Display Case</td><td>"Magenta Pale Oak Display Case", "Pale Oak Magenta Display Case"</td></tr>
+<tr><td>Orange Pale Oak Display Case</td><td>"Orange Pale Oak Display Case", "Pale Oak Orange Display Case"</td></tr>
+<tr><td>Pink Pale Oak Display Case</td><td>"Pink Pale Oak Display Case", "Pale Oak Pink Display Case"</td></tr>
+<tr><td>Purple Pale Oak Display Case</td><td>"Purple Pale Oak Display Case", "Pale Oak Purple Display Case"</td></tr>
+<tr><td>Red Pale Oak Display Case</td><td>"Red Pale Oak Display Case", "Pale Oak Red Display Case"</td></tr>
+<tr><td>White Pale Oak Display Case</td><td>"White Pale Oak Display Case", "Pale Oak White Display Case"</td></tr>
+<tr><td>Yellow Pale Oak Display Case</td><td>"Yellow Pale Oak Display Case", "Pale Oak Yellow Display Case"</td></tr>
+<tr><td>Black Spruce Display Case</td><td>"Black Spruce Display Case", "Spruce Black Display Case"</td></tr>
+<tr><td>Blue Spruce Display Case</td><td>"Blue Spruce Display Case", "Spruce Blue Display Case"</td></tr>
+<tr><td>Brown Spruce Display Case</td><td>"Brown Spruce Display Case", "Spruce Brown Display Case"</td></tr>
+<tr><td>Cyan Spruce Display Case</td><td>"Cyan Spruce Display Case", "Spruce Cyan Display Case"</td></tr>
+<tr><td>Gray Spruce Display Case</td><td>"Gray Spruce Display Case", "Spruce Gray Display Case"</td></tr>
+<tr><td>Green Spruce Display Case</td><td>"Green Spruce Display Case", "Spruce Green Display Case"</td></tr>
+<tr><td>Light Blue Spruce Display Case</td><td>"Light Blue Spruce Display Case", "Spruce Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Spruce Display Case</td><td>"Light Gray Spruce Display Case", "Spruce Light Gray Display Case"</td></tr>
+<tr><td>Lime Spruce Display Case</td><td>"Lime Spruce Display Case", "Spruce Lime Display Case"</td></tr>
+<tr><td>Magenta Spruce Display Case</td><td>"Magenta Spruce Display Case", "Spruce Magenta Display Case"</td></tr>
+<tr><td>Orange Spruce Display Case</td><td>"Orange Spruce Display Case", "Spruce Orange Display Case"</td></tr>
+<tr><td>Pink Spruce Display Case</td><td>"Pink Spruce Display Case", "Spruce Pink Display Case"</td></tr>
+<tr><td>Purple Spruce Display Case</td><td>"Purple Spruce Display Case", "Spruce Purple Display Case"</td></tr>
+<tr><td>Red Spruce Display Case</td><td>"Red Spruce Display Case", "Spruce Red Display Case"</td></tr>
+<tr><td>White Spruce Display Case</td><td>"White Spruce Display Case", "Spruce White Display Case"</td></tr>
+<tr><td>Yellow Spruce Display Case</td><td>"Yellow Spruce Display Case", "Spruce Yellow Display Case"</td></tr>
+<tr><td>Black Warped Display Case</td><td>"Black Warped Display Case", "Warped Black Display Case"</td></tr>
+<tr><td>Blue Warped Display Case</td><td>"Blue Warped Display Case", "Warped Blue Display Case"</td></tr>
+<tr><td>Brown Warped Display Case</td><td>"Brown Warped Display Case", "Warped Brown Display Case"</td></tr>
+<tr><td>Cyan Warped Display Case</td><td>"Cyan Warped Display Case", "Warped Cyan Display Case"</td></tr>
+<tr><td>Gray Warped Display Case</td><td>"Gray Warped Display Case", "Warped Gray Display Case"</td></tr>
+<tr><td>Green Warped Display Case</td><td>"Green Warped Display Case", "Warped Green Display Case"</td></tr>
+<tr><td>Light Blue Warped Display Case</td><td>"Light Blue Warped Display Case", "Warped Light Blue Display Case"</td></tr>
+<tr><td>Light Gray Warped Display Case</td><td>"Light Gray Warped Display Case", "Warped Light Gray Display Case"</td></tr>
+<tr><td>Lime Warped Display Case</td><td>"Lime Warped Display Case", "Warped Lime Display Case"</td></tr>
+<tr><td>Magenta Warped Display Case</td><td>"Magenta Warped Display Case", "Warped Magenta Display Case"</td></tr>
+<tr><td>Orange Warped Display Case</td><td>"Orange Warped Display Case", "Warped Orange Display Case"</td></tr>
+<tr><td>Pink Warped Display Case</td><td>"Pink Warped Display Case", "Warped Pink Display Case"</td></tr>
+<tr><td>Purple Warped Display Case</td><td>"Purple Warped Display Case", "Warped Purple Display Case"</td></tr>
+<tr><td>Red Warped Display Case</td><td>"Red Warped Display Case", "Warped Red Display Case"</td></tr>
+<tr><td>White Warped Display Case</td><td>"White Warped Display Case", "Warped White Display Case"</td></tr>
+<tr><td>Yellow Warped Display Case</td><td>"Yellow Warped Display Case", "Warped Yellow Display Case"</td></tr>
 </table>
 
 </center>
