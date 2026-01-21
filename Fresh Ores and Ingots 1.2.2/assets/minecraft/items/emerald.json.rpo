@@ -1,0 +1,12 @@
+{
+    condition: "!freshOresAndIngots.useModelsWhen.ground & !freshOresAndIngots.useModelsWhen.itemFrames & !freshOresAndIngots.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/emerald/emerald1.json",
+        "assets/minecraft/items/alt/emerald/emerald2.json",
+        "assets/minecraft/items/alt/emerald/emerald3.json",
+        "assets/minecraft/items/alt/emerald/emerald4.json",
+        "assets/minecraft/items/alt/emerald/emerald5.json",
+        "assets/minecraft/items/alt/emerald/emerald6.json",
+        "assets/minecraft/items/alt/emerald/emerald7.json"
+    ]
+}

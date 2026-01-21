@@ -1,0 +1,12 @@
+{
+    condition: "!freshOresAndIngots.useModelsWhen.ground & !freshOresAndIngots.useModelsWhen.itemFrames & !freshOresAndIngots.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/brick/brick1.json",
+        "assets/minecraft/items/alt/brick/brick2.json",
+        "assets/minecraft/items/alt/brick/brick3.json",
+        "assets/minecraft/items/alt/brick/brick4.json",
+        "assets/minecraft/items/alt/brick/brick5.json",
+        "assets/minecraft/items/alt/brick/brick6.json",
+        "assets/minecraft/items/alt/brick/brick7.json"
+    ]
+}

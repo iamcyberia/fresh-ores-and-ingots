@@ -1,0 +1,12 @@
+{
+    condition: "!freshOresAndIngots.useModelsWhen.ground & !freshOresAndIngots.useModelsWhen.itemFrames & !freshOresAndIngots.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/diamond/diamond1.json",
+        "assets/minecraft/items/alt/diamond/diamond2.json",
+        "assets/minecraft/items/alt/diamond/diamond3.json",
+        "assets/minecraft/items/alt/diamond/diamond4.json",
+        "assets/minecraft/items/alt/diamond/diamond5.json",
+        "assets/minecraft/items/alt/diamond/diamond6.json",
+        "assets/minecraft/items/alt/diamond/diamond7.json"
+    ]
+}

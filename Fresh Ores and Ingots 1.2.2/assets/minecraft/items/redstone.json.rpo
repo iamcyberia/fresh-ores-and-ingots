@@ -1,0 +1,12 @@
+{
+    condition: "!freshOresAndIngots.useModelsWhen.ground & !freshOresAndIngots.useModelsWhen.itemFrames & !freshOresAndIngots.useModelsWhen.gui",
+    fallbacks: [
+        "assets/minecraft/items/alt/redstone/redstone1.json",
+        "assets/minecraft/items/alt/redstone/redstone2.json",
+        "assets/minecraft/items/alt/redstone/redstone3.json",
+        "assets/minecraft/items/alt/redstone/redstone4.json",
+        "assets/minecraft/items/alt/redstone/redstone5.json",
+        "assets/minecraft/items/alt/redstone/redstone6.json",
+        "assets/minecraft/items/alt/redstone/redstone7.json"
+    ]
+}
